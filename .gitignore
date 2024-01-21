@@ -1,0 +1,4 @@
+/random.pdf
+this is pdf file which will ignor.
+
+now if i want to ignore all the file which are pdf i will change the first line to *.pdf
