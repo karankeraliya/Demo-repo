@@ -176,3 +176,10 @@ Answer: a) Kiran Bedi
 	•	c) 1920
 	•	d) 1945
 Answer: b) 1911
+
+
+1.	What does International Women’s Day (IWD) mean to you?
+a) A celebration of women’s achievements and progress
+b) A reminder of the ongoing fight for gender equality
+c) A day to honor influential women in history
+d) All of the above
